@@ -1,0 +1,23 @@
+[33mcommit 9a6df68d4ff49603d362a185b3a9ae7dff61a017[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Aayushi Saini <you@example.com>
+Date:   Thu Jun 4 09:33:45 2026 +0530
+
+    Added command files and updated SUmit.txt
+
+[33mcommit 8567432a46fd4a028d84c76422c1b87b47af473f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aayushi Saini <you@example.com>
+Date:   Thu Jun 4 09:11:05 2026 +0530
+
+    Add my new files
+
+[33mcommit 6734d9c215db7c7f6205774ca4b70bae3fcdf726[m
+Author: Aayushi Saini <you@example.com>
+Date:   Thu Jun 4 09:01:30 2026 +0530
+
+    Hii! Git
+
+[33mcommit efea23ad41ccd110a2edfcec57e2cd632e1f5c08[m
+Author: AayushiSaini <aayushisaini0613@gmail.com>
+Date:   Wed Jun 3 16:43:55 2026 +0530
+
+    Add README to document internship learning journey
